@@ -2,7 +2,6 @@ package com.example.restfullwebservice;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
-import sun.jvm.hotspot.HelloWorld;
 
 @RestController
 public class HelloWorldController {
